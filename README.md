@@ -1,4 +1,9 @@
-# fountain-utils
+# fdx-to-fountain
+
+Convert from FinalDraft to Fountain format.
+
+[Live Here](https://venkatgoud.github.io/fdx-to-fountain/)
+
 
 ## Project setup
 ```
@@ -18,7 +23,4 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+``` 
