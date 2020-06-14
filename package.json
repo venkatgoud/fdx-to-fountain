@@ -8,9 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "bulma": "^0.8.2",
     "core-js": "^3.6.5",
     "file-saver": "^2.0.2",
+    "fountain-parser": "git+https://github.com/venkatgoud/fountain-parser.git",
+    "tailwindcss": "^1.4.6",
     "screenplay-parsers": "git+https://github.com/venkatgoud/screenplay-parsers.git",
     "vue": "^2.6.11"
   },
